@@ -1,40 +1,119 @@
+# Profile Header Animation
 <div align="center">
-  <!-- Animated Border -->
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   
-  <!-- Animated Name -->
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=40&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&height=100&lines=Hi+🌟+I'm+Lakshya;AI+Architect+%F0%9F%A4%96;Full+Stack+Innovator+%F0%9F%9A%80;Cloud+Explorer+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
   </a>
 
-  <!-- Modern Profile Views Counter -->
   <img src="https://komarev.com/ghpvc/?username=lakshyaog&style=for-the-badge&color=ff5733" alt="Profile Views" />
 </div>
 
-<br>
+<!-- Enhanced About Me Section -->
+<div align="center">
+  <h2>
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px" height="24px">
+    About Me
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24px" height="24px">
+  </h2>
 
-<!-- About Me Section with Modern Design -->
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" />
+
+  <!-- Animated Cards -->
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=FF5733&center=true&vCenter=true&width=500&lines=AI%2FML+Researcher+%F0%9F%94%AC;Full+Stack+Developer+%F0%9F%92%BB;Cloud+Architect+%E2%98%81%EF%B8%8F;Open+Source+Enthusiast+%F0%9F%8C%9F" />
+  </div>
+
+  <!-- Animated Tech Journey -->
+  <div>
+    <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+    
+    <div align="left" style="margin: 20px;">
+      <p>
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+        <strong>Currently Building:</strong> Next-Gen AI Solutions
+      </p>
+      <p>
+        <img src="https://media.giphy.com/media/ln7z2eWriiQAllfVcn/giphy.gif" width="30">
+        <strong>Learning:</strong> Advanced Cloud Architecture
+      </p>
+      <p>
+        <img src="https://media.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.gif" width="30">
+        <strong>Exploring:</strong> Quantum Computing & Edge AI
+      </p>
+    </div>
+  </div>
+
+  <!-- Animated Status Cards -->
+  <div align="center">
+    <a href="#">
+      <img src="https://img.shields.io/badge/Status-Innovating_24/7-FF5733?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Focus-AI_Research-4285F4?style=for-the-badge&logo=google-ai&logoColor=white&labelColor=000000" />
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/Mode-Beast_Mode_On-green?style=for-the-badge&logo=pokemon&logoColor=white&labelColor=000000" />
+    </a>
+  </div>
+
+  <!-- Code Block with Animation -->
+  <div align="center">
+    <br>
+    <a href="#">
+      <img alt="Snake Animation" src="https://github.com/Carol42/Carol42/blob/output/github-contribution-grid-snake.svg"/>
+    </a>
+    <h3>const myLife = () => {</h3>
+  </div>
+
 ```javascript
-const Lakshya = {
-    location: "India 🇮🇳",
-    current: {
+{
+    personalInfo: {
+        name: "Lakshya Solanki",
+        location: "India 🇮🇳",
+        title: "AI/ML Engineer & Full Stack Developer",
         education: "B.Tech AI/ML @ Galgotias University",
-        focus: ["AI/ML Research", "Cloud Architecture", "Full Stack Development"],
-        projects: "Building Next-Gen AI Solutions"
+        interests: ["Quantum Computing", "Edge AI", "Blockchain", "IoT"]
     },
-    tech: {
-        ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn", "YOLO"],
-        frontend: ["React", "Next.js", "Tailwind CSS", "Three.js"],
-        backend: ["Django", "Flask", "Node.js", "FastAPI"],
-        cloud: ["Google Cloud Platform", "Docker", "Kubernetes"],
-        databases: ["PostgreSQL", "MongoDB", "Redis"]
+    
+    techStack: {
+        ai_ml: {
+            frameworks: ["TensorFlow", "PyTorch", "Scikit-learn"],
+            specialization: ["Computer Vision", "NLP", "Reinforcement Learning"],
+            tools: ["YOLO", "Transformers", "GANs"]
+        },
+        
+        development: {
+            frontend: ["React", "Next.js", "Three.js", "Tailwind CSS"],
+            backend: ["Django", "FastAPI", "Node.js"],
+            architecture: ["Microservices", "Serverless", "Event-Driven"]
+        },
+        
+        cloud: {
+            platforms: ["Google Cloud Platform", "AWS"],
+            tools: ["Docker", "Kubernetes", "Terraform"],
+            databases: ["PostgreSQL", "MongoDB", "Redis"]
+        }
     },
-    interests: ["Quantum Computing", "Edge AI", "Blockchain", "IoT"],
-    funFact: "I dream in Python and wake up with solutions 💭"
-};
+    
+    currentFocus: {
+        research: "Exploring Edge AI & Quantum ML",
+        development: "Building Scalable AI Solutions",
+        learning: "Advanced Cloud Architecture & MLOps",
+        contribution: "Open Source AI Projects"
+    },
+    
+    lifePhilosophy: "Code is poetry, AI is the future, and I'm here to write both! 🚀"
+}
 ```
 
-<!-- Modern Tech Stack with Animated Icons -->
+  <div align="center">
+    <h3>}</h3>
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+  </div>
+</div>
+
+<!-- Tech Stack Section -->
 <div align="center">
   <h2>🎯 Technology Mastery</h2>
   
@@ -62,7 +141,7 @@ const Lakshya = {
   </details>
 </div>
 
-<!-- Innovative Stats Section -->
+<!-- Stats Section -->
 <h2 align="center">📊 Innovation Metrics</h2>
 <div align="center">
   <picture>
@@ -76,7 +155,7 @@ const Lakshya = {
   </picture>
 </div>
 
-<!-- Modern Activity Graph -->
+<!-- Activity Graph -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lakshyaog&custom_title=Lakshya's%20Innovation%20Graph&bg_color=0D1117&color=FF5733&line=FF5733&point=FFFFFF&hide_border=true">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyaog&custom_title=Lakshya's%20Innovation%20Graph&bg_color=0D1117&color=FF5733&line=FF5733&point=FFFFFF&hide_border=true">
@@ -87,13 +166,12 @@ const Lakshya = {
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=lakshyaog&theme=radical&no-frame=true&no-bg=true&column=7&title_color=FF5733" width="100%" />
   
-  <!-- Custom Badges -->
   <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-Certified_Explorer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/AI/ML-Research_Enthusiast-FF5733?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Open_Source-Active_Contributor-28A745?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
-<!-- Modern Connect Section -->
+<!-- Connect Section -->
 <h2 align="center">🌐 Digital Presence</h2>
 <div align="center">
   <a href="https://www.linkedin.com/in/lakshya-solanki-4a94b7317/" target="_blank">
