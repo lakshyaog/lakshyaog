@@ -25,7 +25,7 @@
 
   <!-- Organization Animation -->
   <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=500&size=20&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Building+the+Future+of+Technology;Fostering+Innovation+and+Creativity;Creating+Impact+Through+Code;Empowering+Tech+Communities" alt="TechnoJam Description" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=500&size=20&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Building+the+Future+of+Technology;Fostering+Innovation+and+Creativity;Creating+Impact+Through+Code;Empowering+Tech+Communities" alt="TechnoJam is the official coding and development club of Galgotias University, dedicated to fostering innovation, creativity, and collaboration among tech enthusiasts. It provides a platform for students to enhance their skills in competitive programming, artificial intelligence, web and app development, cloud computing, and open-source contributions. The club organizes hackathons, coding competitions, technical workshops, and mentorship programs, empowering students to become future-ready developers and engineers. 🚀💡" />
   </div>
 
  
