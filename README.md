@@ -28,8 +28,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=500&size=20&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Building+the+Future+of+Technology;Fostering+Innovation+and+Creativity;Creating+Impact+Through+Code;Empowering+Tech+Communities" alt="TechnoJam Description" />
   </div>
 
-  <!-- Contribution Snake Animation -->
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+ 
   
   <!-- Animated View Counter with Custom Styling -->
   <div align="center">
