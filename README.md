@@ -6,7 +6,7 @@
   <!-- Name and Title Animation -->
   <div align="center">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF5733&center=true&vCenter=true&random=false&width=500&height=70&lines=Welcome+to+Lakshya's+World+%F0%9F%8C%9F;TechnoJam+Developer+%F0%9F%9A%80;AI+Architect+%F0%9F%A4%96;Full+Stack+Innovator+%F0%9F%92%BB" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF5733&center=true&vCenter=true&random=false&width=500&height=70&lines=Lakshya's+World+Of+Code+%F0%9F%8C%9F;TechnoJam+Developer+%F0%9F%9A%80;AI+Architect+%F0%9F%A4%96;Full+Stack+Innovator+%F0%9F%92%BB" alt="Typing SVG" />
     </a>
   </div>
 
