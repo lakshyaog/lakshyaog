@@ -59,7 +59,16 @@
   <img src="https://github-profile-trophy.vercel.app/?username=lakshyaog&theme=radical&margin-w=10&no-bg=true&no-frame=true" />
 </p>
 🏅 GitHub Badges
-<p align="center"> <img src="https://github-profile-badge.vercel.app/api/badge?name=MultiLanguage&username=lakshyaog&theme=radical" /> <img src="https://github-profile-badge.vercel.app/api/badge?name=Commits&username=lakshyaog&theme=radical" /> <img src="https://github-profile-badge.vercel.app/api/badge?name=Stars&username=lakshyaog&theme=radical" /> <img src="https://github-profile-badge.vercel.app/api/badge?name=Followers&username=lakshyaog&theme=radical" /> <img src="https://github-profile-badge.vercel.app/api/badge?name=Repositories&username=lakshyaog&theme=radical" /> <img src="https://github-profile-badge.vercel.app/api/badge?name=PullRequest&username=lakshyaog&theme=radical" /> <img src="https://github-profile-badge.vercel.app/api/badge?name=Experience&username=lakshyaog&theme=radical" /> </p>
+## 🏅 GitHub Badges  
+
+![MultiLanguage](https://img.shields.io/badge/MultiLanguage-Rainbow_Lang_User-purple?style=for-the-badge)
+![Commits](https://img.shields.io/badge/Commits-Super_Committer-yellow?style=for-the-badge)
+![Stars](https://img.shields.io/badge/Stars-Super_Star-green?style=for-the-badge)
+![Followers](https://img.shields.io/badge/Followers-Active_User-blue?style=for-the-badge)
+![Repositories](https://img.shields.io/badge/Repositories-Hyper_Repo_Creator-orange?style=for-the-badge)
+![PullRequests](https://img.shields.io/badge/Pull_Requests-High_Puller-red?style=for-the-badge)
+![Experience](https://img.shields.io/badge/Experience-Intermediate_Dev-cyan?style=for-the-badge)
+
 
 ## 🤝 Connect With Me
 
