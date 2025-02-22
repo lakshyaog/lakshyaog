@@ -1,91 +1,119 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=FF5733&center=true&vCenter=true&random=false&width=600&height=100&lines=Hi+👋+I'm+Lakshya;AI%2FML+Enthusiast;Problem+Solver+🤖;Full+Stack+Developer+💻" />
+  <!-- Animated Border -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  
+  <!-- Animated Name -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=600&size=40&duration=4000&pause=1000&color=FF5733&center=true&vCenter=true&width=600&height=100&lines=Hi+🌟+I'm+Lakshya;AI+Architect+%F0%9F%A4%96;Full+Stack+Innovator+%F0%9F%9A%80;Cloud+Explorer+%E2%98%81%EF%B8%8F" alt="Typing SVG" />
+  </a>
+
+  <!-- Modern Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=lakshyaog&style=for-the-badge&color=ff5733" alt="Profile Views" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=lakshyaog&label=Profile%20Views&color=ff5733&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/lakshyaog?label=Followers&style=social" alt="GitHub Followers" />
-</div>
+<br>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🚀 Quick Overview
-
-```python
-class AboutMe:
-    def __init__(self):
-        self.name = "Lakshya"
-        self.education = "B.Tech AI/ML @ Galgotias University"
-        self.learning = ["Full Stack Development", "Google Cloud"]
-        self.interests = ["AI/ML", "Automation", "Open Source"]
-        self.superpower = "Turning Coffee into Code ☕️"
+<!-- About Me Section with Modern Design -->
+```javascript
+const Lakshya = {
+    location: "India 🇮🇳",
+    current: {
+        education: "B.Tech AI/ML @ Galgotias University",
+        focus: ["AI/ML Research", "Cloud Architecture", "Full Stack Development"],
+        projects: "Building Next-Gen AI Solutions"
+    },
+    tech: {
+        ai_ml: ["TensorFlow", "PyTorch", "Scikit-learn", "YOLO"],
+        frontend: ["React", "Next.js", "Tailwind CSS", "Three.js"],
+        backend: ["Django", "Flask", "Node.js", "FastAPI"],
+        cloud: ["Google Cloud Platform", "Docker", "Kubernetes"],
+        databases: ["PostgreSQL", "MongoDB", "Redis"]
+    },
+    interests: ["Quantum Computing", "Edge AI", "Blockchain", "IoT"],
+    funFact: "I dream in Python and wake up with solutions 💭"
+};
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💻 Tech Arsenal
-
+<!-- Modern Tech Stack with Animated Icons -->
 <div align="center">
+  <h2>🎯 Technology Mastery</h2>
   
-### 🔥 Languages & Frameworks
+  <!-- AI/ML Stack -->
+  <details open>
+    <summary><b>🤖 AI/ML Arsenal</b></summary>
+    <br>
+    <a href="#"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" /></a>
+    <a href="#"><img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
+  </details>
+
+  <!-- Development Stack -->
+  <details open>
+    <summary><b>💻 Dev Stack</b></summary>
+    <br>
+    <img src="https://skillicons.dev/icons?i=python,react,nextjs,nodejs,django,fastapi&theme=dark&perline=6" />
+  </details>
+
+  <!-- Cloud & DevOps -->
+  <details open>
+    <summary><b>☁️ Cloud & DevOps</b></summary>
+    <br>
+    <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,redis,prometheus,grafana&theme=dark&perline=6" />
+  </details>
+</div>
+
+<!-- Innovative Stats Section -->
+<h2 align="center">📊 Innovation Metrics</h2>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=lakshyaog&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5733&icon_color=FF5733">
+    <img width="49%" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=lakshyaog&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF5733&icon_color=FF5733">
+  </picture>
   
-<img src="https://skillicons.dev/icons?i=python,c,react,nextjs,django,flask&theme=dark" />
-
-### ⚡ Tools & Platforms
-
-<img src="https://skillicons.dev/icons?i=git,docker,gcp,postgres,vscode,github&theme=dark" />
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=lakshyaog&theme=radical&hide_border=true&background=0D1117&ring=FF5733&fire=FF5733&currStreakLabel=FF5733">
+    <img width="49%" alt="Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyaog&theme=radical&hide_border=true&background=0D1117&ring=FF5733&fire=FF5733&currStreakLabel=FF5733">
+  </picture>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- Modern Activity Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=lakshyaog&custom_title=Lakshya's%20Innovation%20Graph&bg_color=0D1117&color=FF5733&line=FF5733&point=FFFFFF&hide_border=true">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=lakshyaog&custom_title=Lakshya's%20Innovation%20Graph&bg_color=0D1117&color=FF5733&line=FF5733&point=FFFFFF&hide_border=true">
+</picture>
 
-## 📊 GitHub Analytics
-
+<!-- Achievements Section -->
+<h2 align="center">🏆 Tech Excellence</h2>
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=lakshyaog&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=lakshyaog&theme=radical&hide_border=true" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lakshyaog&theme=radical&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🌟 Achievements
-
-<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lakshyaog&theme=radical&no-frame=true&no-bg=true&column=7&title_color=FF5733" width="100%" />
   
-![MultiLanguage](https://img.shields.io/badge/MultiLanguage-Rainbow_Lang_User-purple?style=for-the-badge&logo=github&logoColor=white)
-![Experience](https://img.shields.io/badge/Experience-Intermediate_Dev-cyan?style=for-the-badge&logo=github&logoColor=white)
-![Commits](https://img.shields.io/badge/Commits-Super_Committer-yellow?style=for-the-badge&logo=github&logoColor=white)
-
-### 🏆 Certifications & Badges
-<a href="https://www.cloudskillsboost.google/public_profiles/8b8c2e37-23c8-4d17-b024-56f60ca22634">
-  <img src="https://img.shields.io/badge/Google_Cloud_Arcade-Active_Learner-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-</a>
-
+  <!-- Custom Badges -->
+  <a href="#"><img src="https://img.shields.io/badge/Google_Cloud-Certified_Explorer-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/AI/ML-Research_Enthusiast-FF5733?style=for-the-badge&logo=tensorflow&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Open_Source-Active_Contributor-28A745?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🤝 Let's Connect!
-
+<!-- Modern Connect Section -->
+<h2 align="center">🌐 Digital Presence</h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/lakshya-solanki-4a94b7317/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/lakshya-solanki-4a94b7317/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.instagram.com/lakshya_630/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/lakshya_630/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://discord.com/users/lakshya0580">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  <a href="https://discord.com/users/lakshya0580" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-Chat-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="mailto:lakshyasolanki904@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </div>
 
+<!-- Footer -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&animation=twinkling">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=120&section=footer&animation=twinkling">
+  </picture>
 </div>
