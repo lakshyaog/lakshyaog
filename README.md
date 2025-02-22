@@ -1,4 +1,4 @@
-# Profile Header Animation
+# ORGANIZATION -> TECHNOJAM ELITE CODING CLUB
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   
