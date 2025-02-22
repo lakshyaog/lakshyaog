@@ -16,29 +16,34 @@
 - ⚡ Fun fact: I love automating boring stuff!  
 
 
-## ⚙️ Technologies & Tools
-<details>
-<summary>🚀 Languages & Frameworks</summary>
-<br>
+## ⚙ Technologies & Tools
+
+### 🚀 Languages  
 <div>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+</div>
+
+### 🌍 Web Development  
+<div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+</div>
+
+### 🛠 Backend & Frameworks  
+<div>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
 </div>
-</details>
-<details>
-<summary>☁️ Cloud & DevOps</summary>
-<br>
+
+### ☁ Cloud & DevOps  
 <div>
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
-</details>
-<div align="center">
+
+🚀 Currently exploring *Google Cloud Arcade* to level up my cloud skills! 🚀
+
 
 
 ## 🔥 Streak Stats  
@@ -64,5 +69,4 @@
   <a href="https://discord.com/users/lakshya0580"><img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
   <a href="mailto:lakshyasolanki904@gmail.com"><img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
-
 
