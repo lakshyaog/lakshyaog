@@ -1,6 +1,10 @@
 # Welcome to Lakshya's Profile! 👋
-**"Passionate about AI/ML & Problem Solving! 🤖"
-**
+<div align="center">
+  <h2 style="color: #ff5733; font-family: 'Arial', sans-serif; font-weight: bold; text-shadow: 0px 0px 10px #ff5733, 0px 0px 20px #ff5733;">
+    Passionate about AI/ML & Problem Solving! 🤖✨
+  </h2>
+</div>
+
 
 ## 👨‍💻 About Me  
 - 🎓 B.Tech AI/ML at [Galgotias University](https://www.galgotiasuniversity.edu.in/)  
@@ -13,7 +17,7 @@
 
 
 
-## ⚙️ Technologies & Tools  
+
 ## ⚙️ Technologies & Tools
 
 ### 🚀 Languages  
