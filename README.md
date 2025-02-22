@@ -68,6 +68,22 @@
 
 ---
 
+
+## 🎖️ Achievements & Badges
+
+### 🏆 Holopin Badges
+![Holopin](https://holopin.me/your_username)
+
+### 🚀 Google Cloud Arcade Badges
+![Google Cloud Arcade](https://www.cloudskillsboost.google/public_profiles/8b8c2e37-23c8-4d17-b024-56f60ca22634)
+
+### 👨‍💻 CodeChef Achievements
+![CodeChef Badge](your_uploaded_badge_url)
+
+### 🏅 CodeShodes Badge
+![CodeShodes](your_uploaded_badge_url)
+
+
 ## 🤝 Connect With Me  
 <p align="center">
   <a href="https://www.linkedin.com/in/lakshya-solanki-4a94b7317/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
