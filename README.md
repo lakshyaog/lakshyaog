@@ -1,4 +1,46 @@
-# ORGANIZATION -> TECHNOJAM ELITE CODING CLUB
+<!-- Animated Dual Header -->
+<div align="center">
+  <!-- Animated Organization Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,16,18,20&height=150&section=header&text=TechnoJam&fontSize=60&animation=fadeIn&fontColor=fff&desc=Innovate%20|%20Create%20|%20Inspire&descSize=20&descAlignY=75" width="100%"/>
+
+  <!-- Name and Title Animation -->
+  <div align="center">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=FF5733&center=true&vCenter=true&random=false&width=500&height=70&lines=Welcome+to+Lakshya's+World+%F0%9F%8C%9F;TechnoJam+Developer+%F0%9F%9A%80;AI+Architect+%F0%9F%A4%96;Full+Stack+Innovator+%F0%9F%92%BB" alt="Typing SVG" />
+    </a>
+  </div>
+
+  <!-- Animated Divider -->
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+
+  <!-- Organization Badges -->
+  <div align="center">
+    <a href="#">
+      <img src="https://img.shields.io/badge/TECHNOJAM-Core_Member-FF5733?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNC45NnYtMy4wNGMwLS4zNS0uMTktLjY2LS40OC0uODJsLTMuNi0xLjMyYy0uMjktLjEyLS40OC0uMzktLjQ4LS43VjguOThjMC0uMzUuMTktLjY2LjQ4LS44Mmw0LjMyLTEuNTdjLjI5LS4xMi42MS0uMTIuOSAwbDQuMzIgMS41N2MuMjkuMTYuNDguNDcuNDguODJ2Mi4xMmMwIC4zMS0uMTkuNTgtLjQ4LjdMMTMuNDggMTIuMWMtLjI5LjE2LS40OC40Ny0uNDguODJ2My4wNGMwIC4zNS4xOS42Ni40OC44MmwzLjYgMS4zMmMuMjkuMTIuNDguMzkuNDguN3YyLjFjMCAuMzUtLjE5LjY2LS40OC44MmwtNC4zMiAxLjU3Yy0uMjkuMTItLjYxLjEyLS45IDBsLTQuMzItMS41N2MtLjI5LS4xNi0uNDgtLjQ3LS40OC0uODJ2LTIuMWMwLS4zMS4xOS0uNTguNDgtLjdsMy42LTEuMzJjLjI5LS4xNi40OC0uNDcuNDgtLjgyeiIvPjwvc3ZnPg==" />
+    </a>
+    <a href="#">
+      <img src="https://img.shields.io/badge/TEAM-Developers_Guild-4285F4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0tMSAxNC45NnYtMy4wNGMwLS4zNS0uMTktLjY2LS40OC0uODJsLTMuNi0xLjMyYy0uMjktLjEyLS40OC0uMzktLjQ4LS43VjguOThjMC0uMzUuMTktLjY2LjQ4LS44Mmw0LjMyLTEuNTdjLjI5LS4xMi42MS0uMTIuOSAwbDQuMzIgMS41N2MuMjkuMTYuNDguNDcuNDguODJ2Mi4xMmMwIC4zMS0uMTkuNTgtLjQ4LjdMMTMuNDggMTIuMWMtLjI5LjE2LS40OC40Ny0uNDguODJ2My4wNGMwIC4zNS4xOS42Ni40OC44MmwzLjYgMS4zMmMuMjkuMTIuNDguMzkuNDguN3YyLjFjMCAuMzUtLjE5LjY2LS40OC44MmwtNC4zMiAxLjU3Yy0uMjkuMTItLjYxLjEyLS45IDBsLTQuMzItMS41N2MtLjI5LS4xNi0uNDgtLjQ3LS40OC0uODJ2LTIuMWMwLS4zMS4xOS0uNTguNDgtLjdsMy42LTEuMzJjLjI5LS4xNi40OC0uNDcuNDgtLjgyeiIvPjwvc3ZnPg==" />
+    </a>
+  </div>
+
+  <!-- Organization Animation -->
+  <div align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&weight=500&size=20&pause=1000&color=00FF00&center=true&vCenter=true&random=false&width=500&height=70&lines=Building+the+Future+of+Technology;Fostering+Innovation+and+Creativity;Creating+Impact+Through+Code;Empowering+Tech+Communities" alt="TechnoJam Description" />
+  </div>
+
+  <!-- Contribution Snake Animation -->
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  
+  <!-- Animated View Counter with Custom Styling -->
+  <div align="center">
+    <img src="https://profile-counter.glitch.me/{lakshyaog}/count.svg" alt="Visitor Count" 
+         style="background: linear-gradient(to right, #ff5733, #4285F4); padding: 5px; border-radius: 5px;" />
+  </div>
+
+  <!-- Animated Divider -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
   
