@@ -80,8 +80,7 @@
 ### 👨‍💻 CodeChef Achievements
 ![CodeChef Badge](your_uploaded_badge_url)
 
-### 🏅 CodeShodes Badge
-![CodeShodes](your_uploaded_badge_url)
+
 
 
 ## 🤝 Connect With Me  
