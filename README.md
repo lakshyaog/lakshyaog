@@ -52,7 +52,7 @@
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-    About My Anime Code Journey
+    About My Code Journey
     <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
   </h2>
 
@@ -109,7 +109,7 @@
 {
     personalInfo: {
         name: "Lakshya Solanki",
-        location: "Neo Tokyo, India 🇮🇳",
+        location: "India 🇮🇳",
         title: "AI/ML Sensei & Full Stack Shinobi",
         education: "B.Tech AI/ML @ Galgotias University",
         powerLevel: "Over 9000",
